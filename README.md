@@ -3,3 +3,5 @@ Startup Landing Page exercise where I learned to build a responsive website with
 ## Resources:
 * Bootstrap
 * Mailchimp
+* HTML5
+* CSS
